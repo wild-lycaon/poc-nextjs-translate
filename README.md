@@ -1,4 +1,4 @@
-# POC of NextJS Translate
+# Proof of Concept - NextJS Translate
 
 ## Install dependencies
 
