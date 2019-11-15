@@ -1,4 +1,5 @@
 # Proof of Concept - NextJS Translate
+https://qiita.com/eiichi_sato/private/465f1da3d5dce189a066
 
 ## Install dependencies
 
